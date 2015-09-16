@@ -1,0 +1,7 @@
+001-0168a00	X 001-0168a	buddhist/X-xuzang/X63/01/X63-0168.png
+001-0168b00	X 001-0168b	buddhist/X-xuzang/X63/01/X63-0168.png
+001-0168c00	X 001-0168c	buddhist/X-xuzang/X63/01/X63-0168.png
+001-0169a00	X 001-0169a	buddhist/X-xuzang/X63/01/X63-0169.png
+001-0169b00	X 001-0169b	buddhist/X-xuzang/X63/01/X63-0169.png
+001-0169c00	X 001-0169c	buddhist/X-xuzang/X63/01/X63-0169.png
+001-0170a00	X 001-0170a	buddhist/X-xuzang/X63/01/X63-0170.png
